@@ -1,0 +1,10 @@
+.lista{
+display: block;
+font-size : 15px;
+padding: 10px;
+font-family: sans-serif;
+}
+a:hover {
+    color: black;
+    font-size: 16px;
+}

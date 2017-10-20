@@ -1,0 +1,12 @@
+p {
+  margin: 20px 40px 20px 40px;
+}
+
+#box_1{
+  background-color: orange;
+  padding: 5px;
+position: fixed;
+bottom: 0px;
+right: 0px;
+left: 0px;
+}
